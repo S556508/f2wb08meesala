@@ -2,7 +2,7 @@ extends layout
 
 block content
   h1= title
-  p Express is Running #{title}
+  p Welcome to #{title}
   input(type="button", class="btn btn-primary" value ="Press Me" onClick = "doBump()")
   <br><br>
   div(id="bump")
@@ -16,4 +16,5 @@ block content
       bump = bump+1;
       document.getElementById("bump").innerHTML = `Count ${count} with bump ${bump}`;
     }
+    a(href='wood') wood
   
