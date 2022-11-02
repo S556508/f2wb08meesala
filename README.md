@@ -1,5 +1,5 @@
 # f2wb08meesala
 https://f2wb08meesala.onrender.com
 
-# ClassName:Wood
-# Attributes:wood_Name, wood_Type,wood_Cost
+# ClassName:House
+# Attributes:house_Name, house_Type,house_Cost
